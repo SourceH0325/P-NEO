@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name" : "사진은 너굴맨이 구했으니 안심하라구",
+    "version" : "1.0",
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["index.js"]
+        }
+    ]
+}
