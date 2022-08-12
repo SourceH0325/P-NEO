@@ -5,4 +5,4 @@
 
 (히히 재밌땅)
 
-<img src="/img.png" width="500px" height="500px">
+<img src="/img.png" width="1404px" height="440px">
